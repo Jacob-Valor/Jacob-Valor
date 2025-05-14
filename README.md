@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=40&pause=1000&width=435&lines=Welcome+To+My+Github+!!!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=28&pause=1000&width=435&lines=Welcome+To+My+Github+!!!" alt="Typing SVG" />
   </a>
 </div>
 
